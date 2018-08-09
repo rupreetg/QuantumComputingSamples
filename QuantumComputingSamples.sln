@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_HelloWorld", "QuantumComputingSamples\01_HelloWorld.csproj", "{1BA04C6D-B359-4CEC-AFF7-31D0A0AF236A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_HelloWorld", "01_HelloWorld\01_HelloWorld.csproj", "{1BA04C6D-B359-4CEC-AFF7-31D0A0AF236A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_HGateAndMeasure", "02_HGateAndMeasure\02_HGateAndMeasure.csproj", "{9E3B2A70-3BAE-40A3-95AD-3118082B135C}"
 EndProject
